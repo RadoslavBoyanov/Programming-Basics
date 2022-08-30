@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net5.0\03. Deposit Calculator.exe
+C:\Users\user\source\repos\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net5.0\03. Deposit Calculator.deps.json
+C:\Users\user\source\repos\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net5.0\03. Deposit Calculator.runtimeconfig.json
+C:\Users\user\source\repos\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net5.0\03. Deposit Calculator.runtimeconfig.dev.json
+C:\Users\user\source\repos\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net5.0\03. Deposit Calculator.dll
+C:\Users\user\source\repos\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net5.0\ref\03. Deposit Calculator.dll
+C:\Users\user\source\repos\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net5.0\03. Deposit Calculator.pdb
+C:\Users\user\source\repos\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net5.0\03. Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net5.0\03. Deposit Calculator.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net5.0\03. Deposit Calculator.AssemblyInfo.cs
+C:\Users\user\source\repos\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net5.0\03. Deposit Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net5.0\03. Deposit Calculator.dll
+C:\Users\user\source\repos\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net5.0\ref\03. Deposit Calculator.dll
+C:\Users\user\source\repos\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net5.0\03. Deposit Calculator.pdb
+C:\Users\user\source\repos\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net5.0\03. Deposit Calculator.genruntimeconfig.cache
+C:\Users\user\source\repos\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net5.0\03. Deposit Calculator.csproj.AssemblyReference.cache
