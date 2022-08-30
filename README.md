@@ -1,4 +1,3 @@
-[Programming Basics - February 2022 - Certificate.pdf](https://github.com/RadoslavBoyanov/Programming-Basics/files/9453035/Programming.Basics.-.February.2022.-.Certificate.pdf)
 # Programming Basics
 My projects in education in Software University, Sofia, Bulgaria.
 I started the training on the 5th of February and successfully completed it on the 27th of March.
