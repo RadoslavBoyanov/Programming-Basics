@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Conditional Statements - Lab\T01. Excellent Result\obj\Debug\net5.0\T01. Excellent Result.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Conditional Statements - Lab\T01. Excellent Result\obj\Debug\net5.0\T01. Excellent Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Conditional Statements - Lab\T01. Excellent Result\obj\Debug\net5.0\T01. Excellent Result.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Conditional Statements - Lab\T01. Excellent Result\obj\Debug\net5.0\T01. Excellent Result.AssemblyInfo.cs
+C:\Users\user\source\repos\Conditional Statements - Lab\T01. Excellent Result\obj\Debug\net5.0\T01. Excellent Result.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conditional Statements - Lab\T01. Excellent Result\bin\Debug\net5.0\T01. Excellent Result.exe
+C:\Users\user\source\repos\Conditional Statements - Lab\T01. Excellent Result\bin\Debug\net5.0\T01. Excellent Result.deps.json
+C:\Users\user\source\repos\Conditional Statements - Lab\T01. Excellent Result\bin\Debug\net5.0\T01. Excellent Result.runtimeconfig.json
+C:\Users\user\source\repos\Conditional Statements - Lab\T01. Excellent Result\bin\Debug\net5.0\T01. Excellent Result.runtimeconfig.dev.json
+C:\Users\user\source\repos\Conditional Statements - Lab\T01. Excellent Result\bin\Debug\net5.0\T01. Excellent Result.dll
+C:\Users\user\source\repos\Conditional Statements - Lab\T01. Excellent Result\bin\Debug\net5.0\ref\T01. Excellent Result.dll
+C:\Users\user\source\repos\Conditional Statements - Lab\T01. Excellent Result\bin\Debug\net5.0\T01. Excellent Result.pdb
+C:\Users\user\source\repos\Conditional Statements - Lab\T01. Excellent Result\obj\Debug\net5.0\T01. Excellent Result.dll
+C:\Users\user\source\repos\Conditional Statements - Lab\T01. Excellent Result\obj\Debug\net5.0\ref\T01. Excellent Result.dll
+C:\Users\user\source\repos\Conditional Statements - Lab\T01. Excellent Result\obj\Debug\net5.0\T01. Excellent Result.pdb
+C:\Users\user\source\repos\Conditional Statements - Lab\T01. Excellent Result\obj\Debug\net5.0\T01. Excellent Result.genruntimeconfig.cache

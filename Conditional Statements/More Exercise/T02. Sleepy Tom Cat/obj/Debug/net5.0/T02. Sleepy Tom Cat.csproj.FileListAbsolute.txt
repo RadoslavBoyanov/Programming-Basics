@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Conditional Statements - More Exercises\T02. Sleepy Tom Cat\bin\Debug\net5.0\T02. Sleepy Tom Cat.exe
+C:\Users\user\source\repos\Conditional Statements - More Exercises\T02. Sleepy Tom Cat\bin\Debug\net5.0\T02. Sleepy Tom Cat.deps.json
+C:\Users\user\source\repos\Conditional Statements - More Exercises\T02. Sleepy Tom Cat\bin\Debug\net5.0\T02. Sleepy Tom Cat.runtimeconfig.json
+C:\Users\user\source\repos\Conditional Statements - More Exercises\T02. Sleepy Tom Cat\bin\Debug\net5.0\T02. Sleepy Tom Cat.runtimeconfig.dev.json
+C:\Users\user\source\repos\Conditional Statements - More Exercises\T02. Sleepy Tom Cat\bin\Debug\net5.0\T02. Sleepy Tom Cat.dll
+C:\Users\user\source\repos\Conditional Statements - More Exercises\T02. Sleepy Tom Cat\bin\Debug\net5.0\ref\T02. Sleepy Tom Cat.dll
+C:\Users\user\source\repos\Conditional Statements - More Exercises\T02. Sleepy Tom Cat\bin\Debug\net5.0\T02. Sleepy Tom Cat.pdb
+C:\Users\user\source\repos\Conditional Statements - More Exercises\T02. Sleepy Tom Cat\obj\Debug\net5.0\T02. Sleepy Tom Cat.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Conditional Statements - More Exercises\T02. Sleepy Tom Cat\obj\Debug\net5.0\T02. Sleepy Tom Cat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Conditional Statements - More Exercises\T02. Sleepy Tom Cat\obj\Debug\net5.0\T02. Sleepy Tom Cat.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Conditional Statements - More Exercises\T02. Sleepy Tom Cat\obj\Debug\net5.0\T02. Sleepy Tom Cat.AssemblyInfo.cs
+C:\Users\user\source\repos\Conditional Statements - More Exercises\T02. Sleepy Tom Cat\obj\Debug\net5.0\T02. Sleepy Tom Cat.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conditional Statements - More Exercises\T02. Sleepy Tom Cat\obj\Debug\net5.0\T02. Sleepy Tom Cat.dll
+C:\Users\user\source\repos\Conditional Statements - More Exercises\T02. Sleepy Tom Cat\obj\Debug\net5.0\ref\T02. Sleepy Tom Cat.dll
+C:\Users\user\source\repos\Conditional Statements - More Exercises\T02. Sleepy Tom Cat\obj\Debug\net5.0\T02. Sleepy Tom Cat.pdb
+C:\Users\user\source\repos\Conditional Statements - More Exercises\T02. Sleepy Tom Cat\obj\Debug\net5.0\T02. Sleepy Tom Cat.genruntimeconfig.cache

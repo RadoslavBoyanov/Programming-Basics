@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Conditional Statements - Lab\Т06. Speed Info\bin\Debug\net5.0\Т06. Speed Info.exe
+C:\Users\user\source\repos\Conditional Statements - Lab\Т06. Speed Info\bin\Debug\net5.0\Т06. Speed Info.deps.json
+C:\Users\user\source\repos\Conditional Statements - Lab\Т06. Speed Info\bin\Debug\net5.0\Т06. Speed Info.runtimeconfig.json
+C:\Users\user\source\repos\Conditional Statements - Lab\Т06. Speed Info\bin\Debug\net5.0\Т06. Speed Info.runtimeconfig.dev.json
+C:\Users\user\source\repos\Conditional Statements - Lab\Т06. Speed Info\bin\Debug\net5.0\Т06. Speed Info.dll
+C:\Users\user\source\repos\Conditional Statements - Lab\Т06. Speed Info\bin\Debug\net5.0\ref\Т06. Speed Info.dll
+C:\Users\user\source\repos\Conditional Statements - Lab\Т06. Speed Info\bin\Debug\net5.0\Т06. Speed Info.pdb
+C:\Users\user\source\repos\Conditional Statements - Lab\Т06. Speed Info\obj\Debug\net5.0\Т06. Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Conditional Statements - Lab\Т06. Speed Info\obj\Debug\net5.0\Т06. Speed Info.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Conditional Statements - Lab\Т06. Speed Info\obj\Debug\net5.0\Т06. Speed Info.AssemblyInfo.cs
+C:\Users\user\source\repos\Conditional Statements - Lab\Т06. Speed Info\obj\Debug\net5.0\Т06. Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conditional Statements - Lab\Т06. Speed Info\obj\Debug\net5.0\Т06. Speed Info.dll
+C:\Users\user\source\repos\Conditional Statements - Lab\Т06. Speed Info\obj\Debug\net5.0\ref\Т06. Speed Info.dll
+C:\Users\user\source\repos\Conditional Statements - Lab\Т06. Speed Info\obj\Debug\net5.0\Т06. Speed Info.pdb
+C:\Users\user\source\repos\Conditional Statements - Lab\Т06. Speed Info\obj\Debug\net5.0\Т06. Speed Info.genruntimeconfig.cache

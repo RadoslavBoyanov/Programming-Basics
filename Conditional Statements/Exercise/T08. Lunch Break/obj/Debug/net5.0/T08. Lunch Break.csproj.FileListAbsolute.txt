@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Conditional Statements - Exercise\T08. Lunch Break\bin\Debug\net5.0\T08. Lunch Break.exe
+C:\Users\user\source\repos\Conditional Statements - Exercise\T08. Lunch Break\bin\Debug\net5.0\T08. Lunch Break.deps.json
+C:\Users\user\source\repos\Conditional Statements - Exercise\T08. Lunch Break\bin\Debug\net5.0\T08. Lunch Break.runtimeconfig.json
+C:\Users\user\source\repos\Conditional Statements - Exercise\T08. Lunch Break\bin\Debug\net5.0\T08. Lunch Break.runtimeconfig.dev.json
+C:\Users\user\source\repos\Conditional Statements - Exercise\T08. Lunch Break\bin\Debug\net5.0\T08. Lunch Break.dll
+C:\Users\user\source\repos\Conditional Statements - Exercise\T08. Lunch Break\bin\Debug\net5.0\ref\T08. Lunch Break.dll
+C:\Users\user\source\repos\Conditional Statements - Exercise\T08. Lunch Break\bin\Debug\net5.0\T08. Lunch Break.pdb
+C:\Users\user\source\repos\Conditional Statements - Exercise\T08. Lunch Break\obj\Debug\net5.0\T08. Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Conditional Statements - Exercise\T08. Lunch Break\obj\Debug\net5.0\T08. Lunch Break.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Conditional Statements - Exercise\T08. Lunch Break\obj\Debug\net5.0\T08. Lunch Break.AssemblyInfo.cs
+C:\Users\user\source\repos\Conditional Statements - Exercise\T08. Lunch Break\obj\Debug\net5.0\T08. Lunch Break.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conditional Statements - Exercise\T08. Lunch Break\obj\Debug\net5.0\T08. Lunch Break.dll
+C:\Users\user\source\repos\Conditional Statements - Exercise\T08. Lunch Break\obj\Debug\net5.0\ref\T08. Lunch Break.dll
+C:\Users\user\source\repos\Conditional Statements - Exercise\T08. Lunch Break\obj\Debug\net5.0\T08. Lunch Break.pdb
+C:\Users\user\source\repos\Conditional Statements - Exercise\T08. Lunch Break\obj\Debug\net5.0\T08. Lunch Break.genruntimeconfig.cache

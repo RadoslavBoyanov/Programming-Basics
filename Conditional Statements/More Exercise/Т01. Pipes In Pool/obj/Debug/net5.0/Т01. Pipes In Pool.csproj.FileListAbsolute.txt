@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Conditional Statements - More Exercises\Т01. Pipes In Pool\bin\Debug\net5.0\Т01. Pipes In Pool.exe
+C:\Users\user\source\repos\Conditional Statements - More Exercises\Т01. Pipes In Pool\bin\Debug\net5.0\Т01. Pipes In Pool.deps.json
+C:\Users\user\source\repos\Conditional Statements - More Exercises\Т01. Pipes In Pool\bin\Debug\net5.0\Т01. Pipes In Pool.runtimeconfig.json
+C:\Users\user\source\repos\Conditional Statements - More Exercises\Т01. Pipes In Pool\bin\Debug\net5.0\Т01. Pipes In Pool.runtimeconfig.dev.json
+C:\Users\user\source\repos\Conditional Statements - More Exercises\Т01. Pipes In Pool\bin\Debug\net5.0\Т01. Pipes In Pool.dll
+C:\Users\user\source\repos\Conditional Statements - More Exercises\Т01. Pipes In Pool\bin\Debug\net5.0\ref\Т01. Pipes In Pool.dll
+C:\Users\user\source\repos\Conditional Statements - More Exercises\Т01. Pipes In Pool\bin\Debug\net5.0\Т01. Pipes In Pool.pdb
+C:\Users\user\source\repos\Conditional Statements - More Exercises\Т01. Pipes In Pool\obj\Debug\net5.0\Т01. Pipes In Pool.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Conditional Statements - More Exercises\Т01. Pipes In Pool\obj\Debug\net5.0\Т01. Pipes In Pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Conditional Statements - More Exercises\Т01. Pipes In Pool\obj\Debug\net5.0\Т01. Pipes In Pool.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Conditional Statements - More Exercises\Т01. Pipes In Pool\obj\Debug\net5.0\Т01. Pipes In Pool.AssemblyInfo.cs
+C:\Users\user\source\repos\Conditional Statements - More Exercises\Т01. Pipes In Pool\obj\Debug\net5.0\Т01. Pipes In Pool.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conditional Statements - More Exercises\Т01. Pipes In Pool\obj\Debug\net5.0\Т01. Pipes In Pool.dll
+C:\Users\user\source\repos\Conditional Statements - More Exercises\Т01. Pipes In Pool\obj\Debug\net5.0\ref\Т01. Pipes In Pool.dll
+C:\Users\user\source\repos\Conditional Statements - More Exercises\Т01. Pipes In Pool\obj\Debug\net5.0\Т01. Pipes In Pool.pdb
+C:\Users\user\source\repos\Conditional Statements - More Exercises\Т01. Pipes In Pool\obj\Debug\net5.0\Т01. Pipes In Pool.genruntimeconfig.cache

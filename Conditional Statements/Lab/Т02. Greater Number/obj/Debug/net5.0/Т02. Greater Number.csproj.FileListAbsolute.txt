@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Conditional Statements - Lab\Т02. Greater Number\bin\Debug\net5.0\Т02. Greater Number.exe
+C:\Users\user\source\repos\Conditional Statements - Lab\Т02. Greater Number\bin\Debug\net5.0\Т02. Greater Number.deps.json
+C:\Users\user\source\repos\Conditional Statements - Lab\Т02. Greater Number\bin\Debug\net5.0\Т02. Greater Number.runtimeconfig.json
+C:\Users\user\source\repos\Conditional Statements - Lab\Т02. Greater Number\bin\Debug\net5.0\Т02. Greater Number.runtimeconfig.dev.json
+C:\Users\user\source\repos\Conditional Statements - Lab\Т02. Greater Number\bin\Debug\net5.0\Т02. Greater Number.dll
+C:\Users\user\source\repos\Conditional Statements - Lab\Т02. Greater Number\bin\Debug\net5.0\ref\Т02. Greater Number.dll
+C:\Users\user\source\repos\Conditional Statements - Lab\Т02. Greater Number\bin\Debug\net5.0\Т02. Greater Number.pdb
+C:\Users\user\source\repos\Conditional Statements - Lab\Т02. Greater Number\obj\Debug\net5.0\Т02. Greater Number.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Conditional Statements - Lab\Т02. Greater Number\obj\Debug\net5.0\Т02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Conditional Statements - Lab\Т02. Greater Number\obj\Debug\net5.0\Т02. Greater Number.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Conditional Statements - Lab\Т02. Greater Number\obj\Debug\net5.0\Т02. Greater Number.AssemblyInfo.cs
+C:\Users\user\source\repos\Conditional Statements - Lab\Т02. Greater Number\obj\Debug\net5.0\Т02. Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conditional Statements - Lab\Т02. Greater Number\obj\Debug\net5.0\Т02. Greater Number.dll
+C:\Users\user\source\repos\Conditional Statements - Lab\Т02. Greater Number\obj\Debug\net5.0\ref\Т02. Greater Number.dll
+C:\Users\user\source\repos\Conditional Statements - Lab\Т02. Greater Number\obj\Debug\net5.0\Т02. Greater Number.pdb
+C:\Users\user\source\repos\Conditional Statements - Lab\Т02. Greater Number\obj\Debug\net5.0\Т02. Greater Number.genruntimeconfig.cache
