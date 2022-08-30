@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\First steps in coding\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.exe
+C:\Users\user\source\repos\First steps in coding\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.deps.json
+C:\Users\user\source\repos\First steps in coding\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.runtimeconfig.json
+C:\Users\user\source\repos\First steps in coding\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.runtimeconfig.dev.json
+C:\Users\user\source\repos\First steps in coding\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.dll
+C:\Users\user\source\repos\First steps in coding\09. Yard Greening\bin\Debug\net5.0\ref\09. Yard Greening.dll
+C:\Users\user\source\repos\First steps in coding\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.pdb
+C:\Users\user\source\repos\First steps in coding\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\First steps in coding\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\First steps in coding\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.AssemblyInfo.cs
+C:\Users\user\source\repos\First steps in coding\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\First steps in coding\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.dll
+C:\Users\user\source\repos\First steps in coding\09. Yard Greening\obj\Debug\net5.0\ref\09. Yard Greening.dll
+C:\Users\user\source\repos\First steps in coding\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.pdb
+C:\Users\user\source\repos\First steps in coding\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.genruntimeconfig.cache

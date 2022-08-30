@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\First steps in coding\06. Fishland\bin\Debug\net5.0\06. Fishland.exe
+C:\Users\user\source\repos\First steps in coding\06. Fishland\bin\Debug\net5.0\06. Fishland.deps.json
+C:\Users\user\source\repos\First steps in coding\06. Fishland\bin\Debug\net5.0\06. Fishland.runtimeconfig.json
+C:\Users\user\source\repos\First steps in coding\06. Fishland\bin\Debug\net5.0\06. Fishland.runtimeconfig.dev.json
+C:\Users\user\source\repos\First steps in coding\06. Fishland\bin\Debug\net5.0\06. Fishland.dll
+C:\Users\user\source\repos\First steps in coding\06. Fishland\bin\Debug\net5.0\ref\06. Fishland.dll
+C:\Users\user\source\repos\First steps in coding\06. Fishland\bin\Debug\net5.0\06. Fishland.pdb
+C:\Users\user\source\repos\First steps in coding\06. Fishland\obj\Debug\net5.0\06. Fishland.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\First steps in coding\06. Fishland\obj\Debug\net5.0\06. Fishland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\First steps in coding\06. Fishland\obj\Debug\net5.0\06. Fishland.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\First steps in coding\06. Fishland\obj\Debug\net5.0\06. Fishland.AssemblyInfo.cs
+C:\Users\user\source\repos\First steps in coding\06. Fishland\obj\Debug\net5.0\06. Fishland.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\First steps in coding\06. Fishland\obj\Debug\net5.0\06. Fishland.dll
+C:\Users\user\source\repos\First steps in coding\06. Fishland\obj\Debug\net5.0\ref\06. Fishland.dll
+C:\Users\user\source\repos\First steps in coding\06. Fishland\obj\Debug\net5.0\06. Fishland.pdb
+C:\Users\user\source\repos\First steps in coding\06. Fishland\obj\Debug\net5.0\06. Fishland.genruntimeconfig.cache

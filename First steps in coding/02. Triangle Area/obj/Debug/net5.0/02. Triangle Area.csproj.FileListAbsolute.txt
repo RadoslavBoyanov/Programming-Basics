@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\First steps in coding\02. Triangle Area\bin\Debug\net5.0\02. Triangle Area.exe
+C:\Users\user\source\repos\First steps in coding\02. Triangle Area\bin\Debug\net5.0\02. Triangle Area.deps.json
+C:\Users\user\source\repos\First steps in coding\02. Triangle Area\bin\Debug\net5.0\02. Triangle Area.runtimeconfig.json
+C:\Users\user\source\repos\First steps in coding\02. Triangle Area\bin\Debug\net5.0\02. Triangle Area.runtimeconfig.dev.json
+C:\Users\user\source\repos\First steps in coding\02. Triangle Area\bin\Debug\net5.0\02. Triangle Area.dll
+C:\Users\user\source\repos\First steps in coding\02. Triangle Area\bin\Debug\net5.0\ref\02. Triangle Area.dll
+C:\Users\user\source\repos\First steps in coding\02. Triangle Area\bin\Debug\net5.0\02. Triangle Area.pdb
+C:\Users\user\source\repos\First steps in coding\02. Triangle Area\obj\Debug\net5.0\02. Triangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\First steps in coding\02. Triangle Area\obj\Debug\net5.0\02. Triangle Area.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\First steps in coding\02. Triangle Area\obj\Debug\net5.0\02. Triangle Area.AssemblyInfo.cs
+C:\Users\user\source\repos\First steps in coding\02. Triangle Area\obj\Debug\net5.0\02. Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\First steps in coding\02. Triangle Area\obj\Debug\net5.0\02. Triangle Area.dll
+C:\Users\user\source\repos\First steps in coding\02. Triangle Area\obj\Debug\net5.0\ref\02. Triangle Area.dll
+C:\Users\user\source\repos\First steps in coding\02. Triangle Area\obj\Debug\net5.0\02. Triangle Area.pdb
+C:\Users\user\source\repos\First steps in coding\02. Triangle Area\obj\Debug\net5.0\02. Triangle Area.genruntimeconfig.cache

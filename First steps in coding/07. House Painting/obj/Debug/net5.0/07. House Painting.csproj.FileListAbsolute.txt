@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\First steps in coding\07. House Painting\bin\Debug\net5.0\07. House Painting.exe
+C:\Users\user\source\repos\First steps in coding\07. House Painting\bin\Debug\net5.0\07. House Painting.deps.json
+C:\Users\user\source\repos\First steps in coding\07. House Painting\bin\Debug\net5.0\07. House Painting.runtimeconfig.json
+C:\Users\user\source\repos\First steps in coding\07. House Painting\bin\Debug\net5.0\07. House Painting.runtimeconfig.dev.json
+C:\Users\user\source\repos\First steps in coding\07. House Painting\bin\Debug\net5.0\07. House Painting.dll
+C:\Users\user\source\repos\First steps in coding\07. House Painting\bin\Debug\net5.0\ref\07. House Painting.dll
+C:\Users\user\source\repos\First steps in coding\07. House Painting\bin\Debug\net5.0\07. House Painting.pdb
+C:\Users\user\source\repos\First steps in coding\07. House Painting\obj\Debug\net5.0\07. House Painting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\First steps in coding\07. House Painting\obj\Debug\net5.0\07. House Painting.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\First steps in coding\07. House Painting\obj\Debug\net5.0\07. House Painting.AssemblyInfo.cs
+C:\Users\user\source\repos\First steps in coding\07. House Painting\obj\Debug\net5.0\07. House Painting.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\First steps in coding\07. House Painting\obj\Debug\net5.0\07. House Painting.dll
+C:\Users\user\source\repos\First steps in coding\07. House Painting\obj\Debug\net5.0\ref\07. House Painting.dll
+C:\Users\user\source\repos\First steps in coding\07. House Painting\obj\Debug\net5.0\07. House Painting.pdb
+C:\Users\user\source\repos\First steps in coding\07. House Painting\obj\Debug\net5.0\07. House Painting.genruntimeconfig.cache

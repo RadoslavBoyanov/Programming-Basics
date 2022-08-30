@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\First steps in coding\Concatenate Data\bin\Debug\net5.0\Concatenate Data.exe
+C:\Users\user\source\repos\First steps in coding\Concatenate Data\bin\Debug\net5.0\Concatenate Data.deps.json
+C:\Users\user\source\repos\First steps in coding\Concatenate Data\bin\Debug\net5.0\Concatenate Data.runtimeconfig.json
+C:\Users\user\source\repos\First steps in coding\Concatenate Data\bin\Debug\net5.0\Concatenate Data.runtimeconfig.dev.json
+C:\Users\user\source\repos\First steps in coding\Concatenate Data\bin\Debug\net5.0\Concatenate Data.dll
+C:\Users\user\source\repos\First steps in coding\Concatenate Data\bin\Debug\net5.0\ref\Concatenate Data.dll
+C:\Users\user\source\repos\First steps in coding\Concatenate Data\bin\Debug\net5.0\Concatenate Data.pdb
+C:\Users\user\source\repos\First steps in coding\Concatenate Data\obj\Debug\net5.0\Concatenate Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\First steps in coding\Concatenate Data\obj\Debug\net5.0\Concatenate Data.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\First steps in coding\Concatenate Data\obj\Debug\net5.0\Concatenate Data.AssemblyInfo.cs
+C:\Users\user\source\repos\First steps in coding\Concatenate Data\obj\Debug\net5.0\Concatenate Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\First steps in coding\Concatenate Data\obj\Debug\net5.0\Concatenate Data.dll
+C:\Users\user\source\repos\First steps in coding\Concatenate Data\obj\Debug\net5.0\ref\Concatenate Data.dll
+C:\Users\user\source\repos\First steps in coding\Concatenate Data\obj\Debug\net5.0\Concatenate Data.pdb
+C:\Users\user\source\repos\First steps in coding\Concatenate Data\obj\Debug\net5.0\Concatenate Data.genruntimeconfig.cache

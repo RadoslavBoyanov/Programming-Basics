@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\First steps in coding\Trapeziod Area\bin\Debug\net5.0\Trapeziod Area.exe
+C:\Users\user\source\repos\First steps in coding\Trapeziod Area\bin\Debug\net5.0\Trapeziod Area.deps.json
+C:\Users\user\source\repos\First steps in coding\Trapeziod Area\bin\Debug\net5.0\Trapeziod Area.runtimeconfig.json
+C:\Users\user\source\repos\First steps in coding\Trapeziod Area\bin\Debug\net5.0\Trapeziod Area.runtimeconfig.dev.json
+C:\Users\user\source\repos\First steps in coding\Trapeziod Area\bin\Debug\net5.0\Trapeziod Area.dll
+C:\Users\user\source\repos\First steps in coding\Trapeziod Area\bin\Debug\net5.0\ref\Trapeziod Area.dll
+C:\Users\user\source\repos\First steps in coding\Trapeziod Area\bin\Debug\net5.0\Trapeziod Area.pdb
+C:\Users\user\source\repos\First steps in coding\Trapeziod Area\obj\Debug\net5.0\Trapeziod Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\First steps in coding\Trapeziod Area\obj\Debug\net5.0\Trapeziod Area.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\First steps in coding\Trapeziod Area\obj\Debug\net5.0\Trapeziod Area.AssemblyInfo.cs
+C:\Users\user\source\repos\First steps in coding\Trapeziod Area\obj\Debug\net5.0\Trapeziod Area.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\First steps in coding\Trapeziod Area\obj\Debug\net5.0\Trapeziod Area.dll
+C:\Users\user\source\repos\First steps in coding\Trapeziod Area\obj\Debug\net5.0\ref\Trapeziod Area.dll
+C:\Users\user\source\repos\First steps in coding\Trapeziod Area\obj\Debug\net5.0\Trapeziod Area.pdb
+C:\Users\user\source\repos\First steps in coding\Trapeziod Area\obj\Debug\net5.0\Trapeziod Area.genruntimeconfig.cache
