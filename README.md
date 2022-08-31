@@ -8,4 +8,3 @@ Skills I have acquired:
  - perform simple calculations
  - working with more complex loops (nested for loops and while)
 
-[Programming Basics - February 2022 - Certificate.pdf](https://github.com/RadoslavBoyanov/Programming-Basics/files/9460062/Programming.Basics.-.February.2022.-.Certificate.pdf)
