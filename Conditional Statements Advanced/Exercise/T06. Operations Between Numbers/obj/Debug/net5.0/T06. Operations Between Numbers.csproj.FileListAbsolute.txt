@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T06. Operations Between Numbers\bin\Debug\net5.0\T06. Operations Between Numbers.exe
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T06. Operations Between Numbers\bin\Debug\net5.0\T06. Operations Between Numbers.deps.json
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T06. Operations Between Numbers\bin\Debug\net5.0\T06. Operations Between Numbers.runtimeconfig.json
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T06. Operations Between Numbers\bin\Debug\net5.0\T06. Operations Between Numbers.runtimeconfig.dev.json
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T06. Operations Between Numbers\bin\Debug\net5.0\T06. Operations Between Numbers.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T06. Operations Between Numbers\bin\Debug\net5.0\ref\T06. Operations Between Numbers.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T06. Operations Between Numbers\bin\Debug\net5.0\T06. Operations Between Numbers.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T06. Operations Between Numbers\obj\Debug\net5.0\T06. Operations Between Numbers.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T06. Operations Between Numbers\obj\Debug\net5.0\T06. Operations Between Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T06. Operations Between Numbers\obj\Debug\net5.0\T06. Operations Between Numbers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T06. Operations Between Numbers\obj\Debug\net5.0\T06. Operations Between Numbers.AssemblyInfo.cs
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T06. Operations Between Numbers\obj\Debug\net5.0\T06. Operations Between Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T06. Operations Between Numbers\obj\Debug\net5.0\T06. Operations Between Numbers.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T06. Operations Between Numbers\obj\Debug\net5.0\ref\T06. Operations Between Numbers.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T06. Operations Between Numbers\obj\Debug\net5.0\T06. Operations Between Numbers.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T06. Operations Between Numbers\obj\Debug\net5.0\T06. Operations Between Numbers.genruntimeconfig.cache

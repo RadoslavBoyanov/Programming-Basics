@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T08. Point on Rectangle Border\bin\Debug\net5.0\T08. Point on Rectangle Border.exe
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T08. Point on Rectangle Border\bin\Debug\net5.0\T08. Point on Rectangle Border.deps.json
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T08. Point on Rectangle Border\bin\Debug\net5.0\T08. Point on Rectangle Border.runtimeconfig.json
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T08. Point on Rectangle Border\bin\Debug\net5.0\T08. Point on Rectangle Border.runtimeconfig.dev.json
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T08. Point on Rectangle Border\bin\Debug\net5.0\T08. Point on Rectangle Border.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T08. Point on Rectangle Border\bin\Debug\net5.0\ref\T08. Point on Rectangle Border.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T08. Point on Rectangle Border\bin\Debug\net5.0\T08. Point on Rectangle Border.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T08. Point on Rectangle Border\obj\Debug\net5.0\T08. Point on Rectangle Border.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T08. Point on Rectangle Border\obj\Debug\net5.0\T08. Point on Rectangle Border.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T08. Point on Rectangle Border\obj\Debug\net5.0\T08. Point on Rectangle Border.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T08. Point on Rectangle Border\obj\Debug\net5.0\T08. Point on Rectangle Border.AssemblyInfo.cs
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T08. Point on Rectangle Border\obj\Debug\net5.0\T08. Point on Rectangle Border.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T08. Point on Rectangle Border\obj\Debug\net5.0\T08. Point on Rectangle Border.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T08. Point on Rectangle Border\obj\Debug\net5.0\ref\T08. Point on Rectangle Border.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T08. Point on Rectangle Border\obj\Debug\net5.0\T08. Point on Rectangle Border.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T08. Point on Rectangle Border\obj\Debug\net5.0\T08. Point on Rectangle Border.genruntimeconfig.cache

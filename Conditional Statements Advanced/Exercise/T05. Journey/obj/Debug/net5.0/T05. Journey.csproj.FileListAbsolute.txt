@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T05. Journey\bin\Debug\net5.0\T05. Journey.exe
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T05. Journey\bin\Debug\net5.0\T05. Journey.deps.json
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T05. Journey\bin\Debug\net5.0\T05. Journey.runtimeconfig.json
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T05. Journey\bin\Debug\net5.0\T05. Journey.runtimeconfig.dev.json
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T05. Journey\bin\Debug\net5.0\T05. Journey.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T05. Journey\bin\Debug\net5.0\ref\T05. Journey.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T05. Journey\bin\Debug\net5.0\T05. Journey.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T05. Journey\obj\Debug\net5.0\T05. Journey.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T05. Journey\obj\Debug\net5.0\T05. Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T05. Journey\obj\Debug\net5.0\T05. Journey.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T05. Journey\obj\Debug\net5.0\T05. Journey.AssemblyInfo.cs
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T05. Journey\obj\Debug\net5.0\T05. Journey.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T05. Journey\obj\Debug\net5.0\T05. Journey.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T05. Journey\obj\Debug\net5.0\ref\T05. Journey.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T05. Journey\obj\Debug\net5.0\T05. Journey.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T05. Journey\obj\Debug\net5.0\T05. Journey.genruntimeconfig.cache

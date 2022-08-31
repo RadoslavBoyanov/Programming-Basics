@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T04. Car To Go\obj\Debug\net5.0\T04. Car To Go.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T04. Car To Go\obj\Debug\net5.0\T04. Car To Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T04. Car To Go\obj\Debug\net5.0\T04. Car To Go.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T04. Car To Go\obj\Debug\net5.0\T04. Car To Go.AssemblyInfo.cs
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T04. Car To Go\obj\Debug\net5.0\T04. Car To Go.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T04. Car To Go\bin\Debug\net5.0\T04. Car To Go.exe
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T04. Car To Go\bin\Debug\net5.0\T04. Car To Go.deps.json
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T04. Car To Go\bin\Debug\net5.0\T04. Car To Go.runtimeconfig.json
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T04. Car To Go\bin\Debug\net5.0\T04. Car To Go.runtimeconfig.dev.json
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T04. Car To Go\bin\Debug\net5.0\T04. Car To Go.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T04. Car To Go\bin\Debug\net5.0\ref\T04. Car To Go.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T04. Car To Go\bin\Debug\net5.0\T04. Car To Go.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T04. Car To Go\obj\Debug\net5.0\T04. Car To Go.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T04. Car To Go\obj\Debug\net5.0\ref\T04. Car To Go.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T04. Car To Go\obj\Debug\net5.0\T04. Car To Go.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T04. Car To Go\obj\Debug\net5.0\T04. Car To Go.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\T01. Day from week\T01. Day from week\bin\Debug\net5.0\T01. Day from week.exe
+C:\Users\user\source\repos\T01. Day from week\T01. Day from week\bin\Debug\net5.0\T01. Day from week.deps.json
+C:\Users\user\source\repos\T01. Day from week\T01. Day from week\bin\Debug\net5.0\T01. Day from week.runtimeconfig.json
+C:\Users\user\source\repos\T01. Day from week\T01. Day from week\bin\Debug\net5.0\T01. Day from week.runtimeconfig.dev.json
+C:\Users\user\source\repos\T01. Day from week\T01. Day from week\bin\Debug\net5.0\T01. Day from week.dll
+C:\Users\user\source\repos\T01. Day from week\T01. Day from week\bin\Debug\net5.0\ref\T01. Day from week.dll
+C:\Users\user\source\repos\T01. Day from week\T01. Day from week\bin\Debug\net5.0\T01. Day from week.pdb
+C:\Users\user\source\repos\T01. Day from week\T01. Day from week\obj\Debug\net5.0\T01. Day from week.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\T01. Day from week\T01. Day from week\obj\Debug\net5.0\T01. Day from week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\T01. Day from week\T01. Day from week\obj\Debug\net5.0\T01. Day from week.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T01. Day from week\obj\Debug\net5.0\T01. Day from week.AssemblyInfo.cs
+C:\Users\user\source\repos\T01. Day from week\T01. Day from week\obj\Debug\net5.0\T01. Day from week.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T01. Day from week\obj\Debug\net5.0\T01. Day from week.dll
+C:\Users\user\source\repos\T01. Day from week\T01. Day from week\obj\Debug\net5.0\ref\T01. Day from week.dll
+C:\Users\user\source\repos\T01. Day from week\T01. Day from week\obj\Debug\net5.0\T01. Day from week.pdb
+C:\Users\user\source\repos\T01. Day from week\T01. Day from week\obj\Debug\net5.0\T01. Day from week.genruntimeconfig.cache

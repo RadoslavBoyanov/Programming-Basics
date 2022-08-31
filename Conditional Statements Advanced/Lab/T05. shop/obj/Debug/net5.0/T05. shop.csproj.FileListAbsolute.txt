@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\T01. Day from week\T05. shop\bin\Debug\net5.0\T05. shop.exe
+C:\Users\user\source\repos\T01. Day from week\T05. shop\bin\Debug\net5.0\T05. shop.deps.json
+C:\Users\user\source\repos\T01. Day from week\T05. shop\bin\Debug\net5.0\T05. shop.runtimeconfig.json
+C:\Users\user\source\repos\T01. Day from week\T05. shop\bin\Debug\net5.0\T05. shop.runtimeconfig.dev.json
+C:\Users\user\source\repos\T01. Day from week\T05. shop\bin\Debug\net5.0\T05. shop.dll
+C:\Users\user\source\repos\T01. Day from week\T05. shop\bin\Debug\net5.0\ref\T05. shop.dll
+C:\Users\user\source\repos\T01. Day from week\T05. shop\bin\Debug\net5.0\T05. shop.pdb
+C:\Users\user\source\repos\T01. Day from week\T05. shop\obj\Debug\net5.0\T05. shop.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\T01. Day from week\T05. shop\obj\Debug\net5.0\T05. shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\T01. Day from week\T05. shop\obj\Debug\net5.0\T05. shop.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T05. shop\obj\Debug\net5.0\T05. shop.AssemblyInfo.cs
+C:\Users\user\source\repos\T01. Day from week\T05. shop\obj\Debug\net5.0\T05. shop.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T05. shop\obj\Debug\net5.0\T05. shop.dll
+C:\Users\user\source\repos\T01. Day from week\T05. shop\obj\Debug\net5.0\ref\T05. shop.dll
+C:\Users\user\source\repos\T01. Day from week\T05. shop\obj\Debug\net5.0\T05. shop.pdb
+C:\Users\user\source\repos\T01. Day from week\T05. shop\obj\Debug\net5.0\T05. shop.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T02. Bike Race\bin\Debug\net5.0\T02. Bike Race.exe
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T02. Bike Race\bin\Debug\net5.0\T02. Bike Race.deps.json
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T02. Bike Race\bin\Debug\net5.0\T02. Bike Race.runtimeconfig.json
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T02. Bike Race\bin\Debug\net5.0\T02. Bike Race.runtimeconfig.dev.json
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T02. Bike Race\bin\Debug\net5.0\T02. Bike Race.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T02. Bike Race\bin\Debug\net5.0\ref\T02. Bike Race.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T02. Bike Race\bin\Debug\net5.0\T02. Bike Race.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T02. Bike Race\obj\Debug\net5.0\T02. Bike Race.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T02. Bike Race\obj\Debug\net5.0\T02. Bike Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T02. Bike Race\obj\Debug\net5.0\T02. Bike Race.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T02. Bike Race\obj\Debug\net5.0\T02. Bike Race.AssemblyInfo.cs
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T02. Bike Race\obj\Debug\net5.0\T02. Bike Race.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T02. Bike Race\obj\Debug\net5.0\T02. Bike Race.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T02. Bike Race\obj\Debug\net5.0\ref\T02. Bike Race.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T02. Bike Race\obj\Debug\net5.0\T02. Bike Race.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T02. Bike Race\obj\Debug\net5.0\T02. Bike Race.genruntimeconfig.cache

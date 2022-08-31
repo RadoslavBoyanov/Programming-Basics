@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\T01. Day from week\T10. inValidNumber\bin\Debug\net5.0\T10. inValidNumber.exe
+C:\Users\user\source\repos\T01. Day from week\T10. inValidNumber\bin\Debug\net5.0\T10. inValidNumber.deps.json
+C:\Users\user\source\repos\T01. Day from week\T10. inValidNumber\bin\Debug\net5.0\T10. inValidNumber.runtimeconfig.json
+C:\Users\user\source\repos\T01. Day from week\T10. inValidNumber\bin\Debug\net5.0\T10. inValidNumber.runtimeconfig.dev.json
+C:\Users\user\source\repos\T01. Day from week\T10. inValidNumber\bin\Debug\net5.0\T10. inValidNumber.dll
+C:\Users\user\source\repos\T01. Day from week\T10. inValidNumber\bin\Debug\net5.0\ref\T10. inValidNumber.dll
+C:\Users\user\source\repos\T01. Day from week\T10. inValidNumber\bin\Debug\net5.0\T10. inValidNumber.pdb
+C:\Users\user\source\repos\T01. Day from week\T10. inValidNumber\obj\Debug\net5.0\T10. inValidNumber.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\T01. Day from week\T10. inValidNumber\obj\Debug\net5.0\T10. inValidNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\T01. Day from week\T10. inValidNumber\obj\Debug\net5.0\T10. inValidNumber.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T10. inValidNumber\obj\Debug\net5.0\T10. inValidNumber.AssemblyInfo.cs
+C:\Users\user\source\repos\T01. Day from week\T10. inValidNumber\obj\Debug\net5.0\T10. inValidNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T10. inValidNumber\obj\Debug\net5.0\T10. inValidNumber.dll
+C:\Users\user\source\repos\T01. Day from week\T10. inValidNumber\obj\Debug\net5.0\ref\T10. inValidNumber.dll
+C:\Users\user\source\repos\T01. Day from week\T10. inValidNumber\obj\Debug\net5.0\T10. inValidNumber.pdb
+C:\Users\user\source\repos\T01. Day from week\T10. inValidNumber\obj\Debug\net5.0\T10. inValidNumber.genruntimeconfig.cache

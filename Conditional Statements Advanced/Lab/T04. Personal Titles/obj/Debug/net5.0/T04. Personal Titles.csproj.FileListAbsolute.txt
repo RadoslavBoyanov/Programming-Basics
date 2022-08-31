@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\T01. Day from week\T04. Personal Titles\bin\Debug\net5.0\T04. Personal Titles.exe
+C:\Users\user\source\repos\T01. Day from week\T04. Personal Titles\bin\Debug\net5.0\T04. Personal Titles.deps.json
+C:\Users\user\source\repos\T01. Day from week\T04. Personal Titles\bin\Debug\net5.0\T04. Personal Titles.runtimeconfig.json
+C:\Users\user\source\repos\T01. Day from week\T04. Personal Titles\bin\Debug\net5.0\T04. Personal Titles.runtimeconfig.dev.json
+C:\Users\user\source\repos\T01. Day from week\T04. Personal Titles\bin\Debug\net5.0\T04. Personal Titles.dll
+C:\Users\user\source\repos\T01. Day from week\T04. Personal Titles\bin\Debug\net5.0\ref\T04. Personal Titles.dll
+C:\Users\user\source\repos\T01. Day from week\T04. Personal Titles\bin\Debug\net5.0\T04. Personal Titles.pdb
+C:\Users\user\source\repos\T01. Day from week\T04. Personal Titles\obj\Debug\net5.0\T04. Personal Titles.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\T01. Day from week\T04. Personal Titles\obj\Debug\net5.0\T04. Personal Titles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\T01. Day from week\T04. Personal Titles\obj\Debug\net5.0\T04. Personal Titles.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T04. Personal Titles\obj\Debug\net5.0\T04. Personal Titles.AssemblyInfo.cs
+C:\Users\user\source\repos\T01. Day from week\T04. Personal Titles\obj\Debug\net5.0\T04. Personal Titles.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T04. Personal Titles\obj\Debug\net5.0\T04. Personal Titles.dll
+C:\Users\user\source\repos\T01. Day from week\T04. Personal Titles\obj\Debug\net5.0\ref\T04. Personal Titles.dll
+C:\Users\user\source\repos\T01. Day from week\T04. Personal Titles\obj\Debug\net5.0\T04. Personal Titles.pdb
+C:\Users\user\source\repos\T01. Day from week\T04. Personal Titles\obj\Debug\net5.0\T04. Personal Titles.genruntimeconfig.cache

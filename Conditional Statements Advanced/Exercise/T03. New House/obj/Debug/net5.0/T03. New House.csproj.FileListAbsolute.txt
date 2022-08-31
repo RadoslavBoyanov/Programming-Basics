@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T03. New House\bin\Debug\net5.0\T03. New House.exe
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T03. New House\bin\Debug\net5.0\T03. New House.deps.json
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T03. New House\bin\Debug\net5.0\T03. New House.runtimeconfig.json
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T03. New House\bin\Debug\net5.0\T03. New House.runtimeconfig.dev.json
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T03. New House\bin\Debug\net5.0\T03. New House.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T03. New House\bin\Debug\net5.0\ref\T03. New House.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T03. New House\bin\Debug\net5.0\T03. New House.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T03. New House\obj\Debug\net5.0\T03. New House.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T03. New House\obj\Debug\net5.0\T03. New House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T03. New House\obj\Debug\net5.0\T03. New House.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T03. New House\obj\Debug\net5.0\T03. New House.AssemblyInfo.cs
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T03. New House\obj\Debug\net5.0\T03. New House.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T03. New House\obj\Debug\net5.0\T03. New House.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T03. New House\obj\Debug\net5.0\ref\T03. New House.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T03. New House\obj\Debug\net5.0\T03. New House.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T03. New House\obj\Debug\net5.0\T03. New House.genruntimeconfig.cache

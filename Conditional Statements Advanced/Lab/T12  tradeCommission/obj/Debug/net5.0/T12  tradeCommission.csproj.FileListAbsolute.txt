@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\T01. Day from week\T12  tradeCommission\bin\Debug\net5.0\T12  tradeCommission.exe
+C:\Users\user\source\repos\T01. Day from week\T12  tradeCommission\bin\Debug\net5.0\T12  tradeCommission.deps.json
+C:\Users\user\source\repos\T01. Day from week\T12  tradeCommission\bin\Debug\net5.0\T12  tradeCommission.runtimeconfig.json
+C:\Users\user\source\repos\T01. Day from week\T12  tradeCommission\bin\Debug\net5.0\T12  tradeCommission.runtimeconfig.dev.json
+C:\Users\user\source\repos\T01. Day from week\T12  tradeCommission\bin\Debug\net5.0\T12  tradeCommission.dll
+C:\Users\user\source\repos\T01. Day from week\T12  tradeCommission\bin\Debug\net5.0\ref\T12  tradeCommission.dll
+C:\Users\user\source\repos\T01. Day from week\T12  tradeCommission\bin\Debug\net5.0\T12  tradeCommission.pdb
+C:\Users\user\source\repos\T01. Day from week\T12  tradeCommission\obj\Debug\net5.0\T12  tradeCommission.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\T01. Day from week\T12  tradeCommission\obj\Debug\net5.0\T12  tradeCommission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\T01. Day from week\T12  tradeCommission\obj\Debug\net5.0\T12  tradeCommission.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T12  tradeCommission\obj\Debug\net5.0\T12  tradeCommission.AssemblyInfo.cs
+C:\Users\user\source\repos\T01. Day from week\T12  tradeCommission\obj\Debug\net5.0\T12  tradeCommission.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T12  tradeCommission\obj\Debug\net5.0\T12  tradeCommission.dll
+C:\Users\user\source\repos\T01. Day from week\T12  tradeCommission\obj\Debug\net5.0\ref\T12  tradeCommission.dll
+C:\Users\user\source\repos\T01. Day from week\T12  tradeCommission\obj\Debug\net5.0\T12  tradeCommission.pdb
+C:\Users\user\source\repos\T01. Day from week\T12  tradeCommission\obj\Debug\net5.0\T12  tradeCommission.genruntimeconfig.cache

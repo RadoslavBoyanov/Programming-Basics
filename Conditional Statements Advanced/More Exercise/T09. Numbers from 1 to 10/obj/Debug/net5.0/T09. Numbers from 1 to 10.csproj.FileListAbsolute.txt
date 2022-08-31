@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T09. Numbers from 1 to 10\bin\Debug\net5.0\T09. Numbers from 1 to 10.exe
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T09. Numbers from 1 to 10\bin\Debug\net5.0\T09. Numbers from 1 to 10.deps.json
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T09. Numbers from 1 to 10\bin\Debug\net5.0\T09. Numbers from 1 to 10.runtimeconfig.json
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T09. Numbers from 1 to 10\bin\Debug\net5.0\T09. Numbers from 1 to 10.runtimeconfig.dev.json
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T09. Numbers from 1 to 10\bin\Debug\net5.0\T09. Numbers from 1 to 10.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T09. Numbers from 1 to 10\bin\Debug\net5.0\ref\T09. Numbers from 1 to 10.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T09. Numbers from 1 to 10\bin\Debug\net5.0\T09. Numbers from 1 to 10.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T09. Numbers from 1 to 10\obj\Debug\net5.0\T09. Numbers from 1 to 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T09. Numbers from 1 to 10\obj\Debug\net5.0\T09. Numbers from 1 to 10.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T09. Numbers from 1 to 10\obj\Debug\net5.0\T09. Numbers from 1 to 10.AssemblyInfo.cs
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T09. Numbers from 1 to 10\obj\Debug\net5.0\T09. Numbers from 1 to 10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T09. Numbers from 1 to 10\obj\Debug\net5.0\T09. Numbers from 1 to 10.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T09. Numbers from 1 to 10\obj\Debug\net5.0\ref\T09. Numbers from 1 to 10.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T09. Numbers from 1 to 10\obj\Debug\net5.0\T09. Numbers from 1 to 10.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T09. Numbers from 1 to 10\obj\Debug\net5.0\T09. Numbers from 1 to 10.genruntimeconfig.cache

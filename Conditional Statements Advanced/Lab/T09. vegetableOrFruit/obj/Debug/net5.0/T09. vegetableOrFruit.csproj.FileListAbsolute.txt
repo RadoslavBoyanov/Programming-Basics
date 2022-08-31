@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\T01. Day from week\T09. vegetableOrFruit\bin\Debug\net5.0\T09. vegetableOrFruit.exe
+C:\Users\user\source\repos\T01. Day from week\T09. vegetableOrFruit\bin\Debug\net5.0\T09. vegetableOrFruit.deps.json
+C:\Users\user\source\repos\T01. Day from week\T09. vegetableOrFruit\bin\Debug\net5.0\T09. vegetableOrFruit.runtimeconfig.json
+C:\Users\user\source\repos\T01. Day from week\T09. vegetableOrFruit\bin\Debug\net5.0\T09. vegetableOrFruit.runtimeconfig.dev.json
+C:\Users\user\source\repos\T01. Day from week\T09. vegetableOrFruit\bin\Debug\net5.0\T09. vegetableOrFruit.dll
+C:\Users\user\source\repos\T01. Day from week\T09. vegetableOrFruit\bin\Debug\net5.0\ref\T09. vegetableOrFruit.dll
+C:\Users\user\source\repos\T01. Day from week\T09. vegetableOrFruit\bin\Debug\net5.0\T09. vegetableOrFruit.pdb
+C:\Users\user\source\repos\T01. Day from week\T09. vegetableOrFruit\obj\Debug\net5.0\T09. vegetableOrFruit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\T01. Day from week\T09. vegetableOrFruit\obj\Debug\net5.0\T09. vegetableOrFruit.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T09. vegetableOrFruit\obj\Debug\net5.0\T09. vegetableOrFruit.AssemblyInfo.cs
+C:\Users\user\source\repos\T01. Day from week\T09. vegetableOrFruit\obj\Debug\net5.0\T09. vegetableOrFruit.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T09. vegetableOrFruit\obj\Debug\net5.0\T09. vegetableOrFruit.dll
+C:\Users\user\source\repos\T01. Day from week\T09. vegetableOrFruit\obj\Debug\net5.0\ref\T09. vegetableOrFruit.dll
+C:\Users\user\source\repos\T01. Day from week\T09. vegetableOrFruit\obj\Debug\net5.0\T09. vegetableOrFruit.pdb
+C:\Users\user\source\repos\T01. Day from week\T09. vegetableOrFruit\obj\Debug\net5.0\T09. vegetableOrFruit.genruntimeconfig.cache

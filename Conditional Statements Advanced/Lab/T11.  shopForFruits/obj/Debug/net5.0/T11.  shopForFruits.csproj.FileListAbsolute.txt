@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\T01. Day from week\T11.  shopForFruits\bin\Debug\net5.0\T11.  shopForFruits.exe
+C:\Users\user\source\repos\T01. Day from week\T11.  shopForFruits\bin\Debug\net5.0\T11.  shopForFruits.deps.json
+C:\Users\user\source\repos\T01. Day from week\T11.  shopForFruits\bin\Debug\net5.0\T11.  shopForFruits.runtimeconfig.json
+C:\Users\user\source\repos\T01. Day from week\T11.  shopForFruits\bin\Debug\net5.0\T11.  shopForFruits.runtimeconfig.dev.json
+C:\Users\user\source\repos\T01. Day from week\T11.  shopForFruits\bin\Debug\net5.0\T11.  shopForFruits.dll
+C:\Users\user\source\repos\T01. Day from week\T11.  shopForFruits\bin\Debug\net5.0\ref\T11.  shopForFruits.dll
+C:\Users\user\source\repos\T01. Day from week\T11.  shopForFruits\bin\Debug\net5.0\T11.  shopForFruits.pdb
+C:\Users\user\source\repos\T01. Day from week\T11.  shopForFruits\obj\Debug\net5.0\T11.  shopForFruits.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\T01. Day from week\T11.  shopForFruits\obj\Debug\net5.0\T11.  shopForFruits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\T01. Day from week\T11.  shopForFruits\obj\Debug\net5.0\T11.  shopForFruits.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T11.  shopForFruits\obj\Debug\net5.0\T11.  shopForFruits.AssemblyInfo.cs
+C:\Users\user\source\repos\T01. Day from week\T11.  shopForFruits\obj\Debug\net5.0\T11.  shopForFruits.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T11.  shopForFruits\obj\Debug\net5.0\T11.  shopForFruits.dll
+C:\Users\user\source\repos\T01. Day from week\T11.  shopForFruits\obj\Debug\net5.0\ref\T11.  shopForFruits.dll
+C:\Users\user\source\repos\T01. Day from week\T11.  shopForFruits\obj\Debug\net5.0\T11.  shopForFruits.pdb
+C:\Users\user\source\repos\T01. Day from week\T11.  shopForFruits\obj\Debug\net5.0\T11.  shopForFruits.genruntimeconfig.cache

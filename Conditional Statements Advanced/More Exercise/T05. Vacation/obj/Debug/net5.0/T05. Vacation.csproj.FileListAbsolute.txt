@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T05. Vacation\bin\Debug\net5.0\T05. Vacation.exe
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T05. Vacation\bin\Debug\net5.0\T05. Vacation.deps.json
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T05. Vacation\bin\Debug\net5.0\T05. Vacation.runtimeconfig.json
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T05. Vacation\bin\Debug\net5.0\T05. Vacation.runtimeconfig.dev.json
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T05. Vacation\bin\Debug\net5.0\T05. Vacation.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T05. Vacation\bin\Debug\net5.0\ref\T05. Vacation.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T05. Vacation\bin\Debug\net5.0\T05. Vacation.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T05. Vacation\obj\Debug\net5.0\T05. Vacation.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T05. Vacation\obj\Debug\net5.0\T05. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T05. Vacation\obj\Debug\net5.0\T05. Vacation.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T05. Vacation\obj\Debug\net5.0\T05. Vacation.AssemblyInfo.cs
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T05. Vacation\obj\Debug\net5.0\T05. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T05. Vacation\obj\Debug\net5.0\T05. Vacation.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T05. Vacation\obj\Debug\net5.0\ref\T05. Vacation.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T05. Vacation\obj\Debug\net5.0\T05. Vacation.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - More Exercises\T05. Vacation\obj\Debug\net5.0\T05. Vacation.genruntimeconfig.cache

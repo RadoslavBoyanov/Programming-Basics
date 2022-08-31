@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\T01. Day from week\T08. ticketForCinema\obj\Debug\net5.0\T08. ticketForCinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\T01. Day from week\T08. ticketForCinema\obj\Debug\net5.0\T08. ticketForCinema.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T08. ticketForCinema\obj\Debug\net5.0\T08. ticketForCinema.AssemblyInfo.cs
+C:\Users\user\source\repos\T01. Day from week\T08. ticketForCinema\obj\Debug\net5.0\T08. ticketForCinema.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T08. ticketForCinema\bin\Debug\net5.0\T08. ticketForCinema.exe
+C:\Users\user\source\repos\T01. Day from week\T08. ticketForCinema\bin\Debug\net5.0\T08. ticketForCinema.deps.json
+C:\Users\user\source\repos\T01. Day from week\T08. ticketForCinema\bin\Debug\net5.0\T08. ticketForCinema.runtimeconfig.json
+C:\Users\user\source\repos\T01. Day from week\T08. ticketForCinema\bin\Debug\net5.0\T08. ticketForCinema.runtimeconfig.dev.json
+C:\Users\user\source\repos\T01. Day from week\T08. ticketForCinema\bin\Debug\net5.0\T08. ticketForCinema.dll
+C:\Users\user\source\repos\T01. Day from week\T08. ticketForCinema\bin\Debug\net5.0\ref\T08. ticketForCinema.dll
+C:\Users\user\source\repos\T01. Day from week\T08. ticketForCinema\bin\Debug\net5.0\T08. ticketForCinema.pdb
+C:\Users\user\source\repos\T01. Day from week\T08. ticketForCinema\obj\Debug\net5.0\T08. ticketForCinema.dll
+C:\Users\user\source\repos\T01. Day from week\T08. ticketForCinema\obj\Debug\net5.0\ref\T08. ticketForCinema.dll
+C:\Users\user\source\repos\T01. Day from week\T08. ticketForCinema\obj\Debug\net5.0\T08. ticketForCinema.pdb
+C:\Users\user\source\repos\T01. Day from week\T08. ticketForCinema\obj\Debug\net5.0\T08. ticketForCinema.genruntimeconfig.cache

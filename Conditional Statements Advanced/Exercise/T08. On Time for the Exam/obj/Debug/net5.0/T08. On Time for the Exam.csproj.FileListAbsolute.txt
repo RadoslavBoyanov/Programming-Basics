@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T08. On Time for the Exam\bin\Debug\net5.0\T08. On Time for the Exam.exe
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T08. On Time for the Exam\bin\Debug\net5.0\T08. On Time for the Exam.deps.json
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T08. On Time for the Exam\bin\Debug\net5.0\T08. On Time for the Exam.runtimeconfig.json
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T08. On Time for the Exam\bin\Debug\net5.0\T08. On Time for the Exam.runtimeconfig.dev.json
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T08. On Time for the Exam\bin\Debug\net5.0\T08. On Time for the Exam.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T08. On Time for the Exam\bin\Debug\net5.0\ref\T08. On Time for the Exam.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T08. On Time for the Exam\bin\Debug\net5.0\T08. On Time for the Exam.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T08. On Time for the Exam\obj\Debug\net5.0\T08. On Time for the Exam.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T08. On Time for the Exam\obj\Debug\net5.0\T08. On Time for the Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T08. On Time for the Exam\obj\Debug\net5.0\T08. On Time for the Exam.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T08. On Time for the Exam\obj\Debug\net5.0\T08. On Time for the Exam.AssemblyInfo.cs
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T08. On Time for the Exam\obj\Debug\net5.0\T08. On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T08. On Time for the Exam\obj\Debug\net5.0\T08. On Time for the Exam.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T08. On Time for the Exam\obj\Debug\net5.0\ref\T08. On Time for the Exam.dll
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T08. On Time for the Exam\obj\Debug\net5.0\T08. On Time for the Exam.pdb
+C:\Users\user\source\repos\Conditional Statements Advanced - Exercise\T08. On Time for the Exam\obj\Debug\net5.0\T08. On Time for the Exam.genruntimeconfig.cache

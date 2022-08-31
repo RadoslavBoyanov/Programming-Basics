@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\T01. Day from week\T06. numberInterval\bin\Debug\net5.0\T06. numberInterval.exe
+C:\Users\user\source\repos\T01. Day from week\T06. numberInterval\bin\Debug\net5.0\T06. numberInterval.deps.json
+C:\Users\user\source\repos\T01. Day from week\T06. numberInterval\bin\Debug\net5.0\T06. numberInterval.runtimeconfig.json
+C:\Users\user\source\repos\T01. Day from week\T06. numberInterval\bin\Debug\net5.0\T06. numberInterval.runtimeconfig.dev.json
+C:\Users\user\source\repos\T01. Day from week\T06. numberInterval\bin\Debug\net5.0\T06. numberInterval.dll
+C:\Users\user\source\repos\T01. Day from week\T06. numberInterval\bin\Debug\net5.0\ref\T06. numberInterval.dll
+C:\Users\user\source\repos\T01. Day from week\T06. numberInterval\bin\Debug\net5.0\T06. numberInterval.pdb
+C:\Users\user\source\repos\T01. Day from week\T06. numberInterval\obj\Debug\net5.0\T06. numberInterval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\T01. Day from week\T06. numberInterval\obj\Debug\net5.0\T06. numberInterval.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T06. numberInterval\obj\Debug\net5.0\T06. numberInterval.AssemblyInfo.cs
+C:\Users\user\source\repos\T01. Day from week\T06. numberInterval\obj\Debug\net5.0\T06. numberInterval.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\T01. Day from week\T06. numberInterval\obj\Debug\net5.0\T06. numberInterval.dll
+C:\Users\user\source\repos\T01. Day from week\T06. numberInterval\obj\Debug\net5.0\ref\T06. numberInterval.dll
+C:\Users\user\source\repos\T01. Day from week\T06. numberInterval\obj\Debug\net5.0\T06. numberInterval.pdb
+C:\Users\user\source\repos\T01. Day from week\T06. numberInterval\obj\Debug\net5.0\T06. numberInterval.genruntimeconfig.cache
