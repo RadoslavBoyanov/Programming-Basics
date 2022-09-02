@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\While-Loop - More Exercises\01. Dishwasher\obj\Debug\net5.0\01. Dishwasher.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\While-Loop - More Exercises\01. Dishwasher\obj\Debug\net5.0\01. Dishwasher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\While-Loop - More Exercises\01. Dishwasher\obj\Debug\net5.0\01. Dishwasher.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\While-Loop - More Exercises\01. Dishwasher\obj\Debug\net5.0\01. Dishwasher.AssemblyInfo.cs
+C:\Users\user\source\repos\While-Loop - More Exercises\01. Dishwasher\obj\Debug\net5.0\01. Dishwasher.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\While-Loop - More Exercises\01. Dishwasher\bin\Debug\net5.0\01. Dishwasher.exe
+C:\Users\user\source\repos\While-Loop - More Exercises\01. Dishwasher\bin\Debug\net5.0\01. Dishwasher.deps.json
+C:\Users\user\source\repos\While-Loop - More Exercises\01. Dishwasher\bin\Debug\net5.0\01. Dishwasher.runtimeconfig.json
+C:\Users\user\source\repos\While-Loop - More Exercises\01. Dishwasher\bin\Debug\net5.0\01. Dishwasher.runtimeconfig.dev.json
+C:\Users\user\source\repos\While-Loop - More Exercises\01. Dishwasher\bin\Debug\net5.0\01. Dishwasher.dll
+C:\Users\user\source\repos\While-Loop - More Exercises\01. Dishwasher\bin\Debug\net5.0\ref\01. Dishwasher.dll
+C:\Users\user\source\repos\While-Loop - More Exercises\01. Dishwasher\bin\Debug\net5.0\01. Dishwasher.pdb
+C:\Users\user\source\repos\While-Loop - More Exercises\01. Dishwasher\obj\Debug\net5.0\01. Dishwasher.dll
+C:\Users\user\source\repos\While-Loop - More Exercises\01. Dishwasher\obj\Debug\net5.0\ref\01. Dishwasher.dll
+C:\Users\user\source\repos\While-Loop - More Exercises\01. Dishwasher\obj\Debug\net5.0\01. Dishwasher.pdb
+C:\Users\user\source\repos\While-Loop - More Exercises\01. Dishwasher\obj\Debug\net5.0\01. Dishwasher.genruntimeconfig.cache

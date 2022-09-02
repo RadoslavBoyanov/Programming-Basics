@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.exe
+C:\Users\user\source\repos\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.deps.json
+C:\Users\user\source\repos\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.runtimeconfig.json
+C:\Users\user\source\repos\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.runtimeconfig.dev.json
+C:\Users\user\source\repos\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.dll
+C:\Users\user\source\repos\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\ref\05. Account Balance.dll
+C:\Users\user\source\repos\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.pdb
+C:\Users\user\source\repos\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.AssemblyInfo.cs
+C:\Users\user\source\repos\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.dll
+C:\Users\user\source\repos\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\ref\05. Account Balance.dll
+C:\Users\user\source\repos\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.pdb
+C:\Users\user\source\repos\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.genruntimeconfig.cache
