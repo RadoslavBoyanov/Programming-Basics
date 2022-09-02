@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\For-Loop - More Exercises\07. Football League\bin\Debug\net5.0\07. Football League.exe
+C:\Users\user\source\repos\For-Loop - More Exercises\07. Football League\bin\Debug\net5.0\07. Football League.deps.json
+C:\Users\user\source\repos\For-Loop - More Exercises\07. Football League\bin\Debug\net5.0\07. Football League.runtimeconfig.json
+C:\Users\user\source\repos\For-Loop - More Exercises\07. Football League\bin\Debug\net5.0\07. Football League.runtimeconfig.dev.json
+C:\Users\user\source\repos\For-Loop - More Exercises\07. Football League\bin\Debug\net5.0\07. Football League.dll
+C:\Users\user\source\repos\For-Loop - More Exercises\07. Football League\bin\Debug\net5.0\ref\07. Football League.dll
+C:\Users\user\source\repos\For-Loop - More Exercises\07. Football League\bin\Debug\net5.0\07. Football League.pdb
+C:\Users\user\source\repos\For-Loop - More Exercises\07. Football League\obj\Debug\net5.0\07. Football League.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\For-Loop - More Exercises\07. Football League\obj\Debug\net5.0\07. Football League.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\For-Loop - More Exercises\07. Football League\obj\Debug\net5.0\07. Football League.AssemblyInfo.cs
+C:\Users\user\source\repos\For-Loop - More Exercises\07. Football League\obj\Debug\net5.0\07. Football League.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\For-Loop - More Exercises\07. Football League\obj\Debug\net5.0\07. Football League.dll
+C:\Users\user\source\repos\For-Loop - More Exercises\07. Football League\obj\Debug\net5.0\ref\07. Football League.dll
+C:\Users\user\source\repos\For-Loop - More Exercises\07. Football League\obj\Debug\net5.0\07. Football League.pdb
+C:\Users\user\source\repos\For-Loop - More Exercises\07. Football League\obj\Debug\net5.0\07. Football League.genruntimeconfig.cache

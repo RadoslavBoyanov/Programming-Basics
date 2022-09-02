@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\For-Loop - More Exercises\06. Bills\bin\Debug\net5.0\06. Bills.exe
+C:\Users\user\source\repos\For-Loop - More Exercises\06. Bills\bin\Debug\net5.0\06. Bills.deps.json
+C:\Users\user\source\repos\For-Loop - More Exercises\06. Bills\bin\Debug\net5.0\06. Bills.runtimeconfig.json
+C:\Users\user\source\repos\For-Loop - More Exercises\06. Bills\bin\Debug\net5.0\06. Bills.runtimeconfig.dev.json
+C:\Users\user\source\repos\For-Loop - More Exercises\06. Bills\bin\Debug\net5.0\06. Bills.dll
+C:\Users\user\source\repos\For-Loop - More Exercises\06. Bills\bin\Debug\net5.0\ref\06. Bills.dll
+C:\Users\user\source\repos\For-Loop - More Exercises\06. Bills\bin\Debug\net5.0\06. Bills.pdb
+C:\Users\user\source\repos\For-Loop - More Exercises\06. Bills\obj\Debug\net5.0\06. Bills.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\For-Loop - More Exercises\06. Bills\obj\Debug\net5.0\06. Bills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\For-Loop - More Exercises\06. Bills\obj\Debug\net5.0\06. Bills.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\For-Loop - More Exercises\06. Bills\obj\Debug\net5.0\06. Bills.AssemblyInfo.cs
+C:\Users\user\source\repos\For-Loop - More Exercises\06. Bills\obj\Debug\net5.0\06. Bills.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\For-Loop - More Exercises\06. Bills\obj\Debug\net5.0\06. Bills.dll
+C:\Users\user\source\repos\For-Loop - More Exercises\06. Bills\obj\Debug\net5.0\ref\06. Bills.dll
+C:\Users\user\source\repos\For-Loop - More Exercises\06. Bills\obj\Debug\net5.0\06. Bills.pdb
+C:\Users\user\source\repos\For-Loop - More Exercises\06. Bills\obj\Debug\net5.0\06. Bills.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\For-Loop - More Exercises\05. Game Of Intervals\bin\Debug\net5.0\05. Game Of Intervals.exe
+C:\Users\user\source\repos\For-Loop - More Exercises\05. Game Of Intervals\bin\Debug\net5.0\05. Game Of Intervals.deps.json
+C:\Users\user\source\repos\For-Loop - More Exercises\05. Game Of Intervals\bin\Debug\net5.0\05. Game Of Intervals.runtimeconfig.json
+C:\Users\user\source\repos\For-Loop - More Exercises\05. Game Of Intervals\bin\Debug\net5.0\05. Game Of Intervals.runtimeconfig.dev.json
+C:\Users\user\source\repos\For-Loop - More Exercises\05. Game Of Intervals\bin\Debug\net5.0\05. Game Of Intervals.dll
+C:\Users\user\source\repos\For-Loop - More Exercises\05. Game Of Intervals\bin\Debug\net5.0\ref\05. Game Of Intervals.dll
+C:\Users\user\source\repos\For-Loop - More Exercises\05. Game Of Intervals\bin\Debug\net5.0\05. Game Of Intervals.pdb
+C:\Users\user\source\repos\For-Loop - More Exercises\05. Game Of Intervals\obj\Debug\net5.0\05. Game Of Intervals.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\For-Loop - More Exercises\05. Game Of Intervals\obj\Debug\net5.0\05. Game Of Intervals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\For-Loop - More Exercises\05. Game Of Intervals\obj\Debug\net5.0\05. Game Of Intervals.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\For-Loop - More Exercises\05. Game Of Intervals\obj\Debug\net5.0\05. Game Of Intervals.AssemblyInfo.cs
+C:\Users\user\source\repos\For-Loop - More Exercises\05. Game Of Intervals\obj\Debug\net5.0\05. Game Of Intervals.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\For-Loop - More Exercises\05. Game Of Intervals\obj\Debug\net5.0\05. Game Of Intervals.dll
+C:\Users\user\source\repos\For-Loop - More Exercises\05. Game Of Intervals\obj\Debug\net5.0\ref\05. Game Of Intervals.dll
+C:\Users\user\source\repos\For-Loop - More Exercises\05. Game Of Intervals\obj\Debug\net5.0\05. Game Of Intervals.pdb
+C:\Users\user\source\repos\For-Loop - More Exercises\05. Game Of Intervals\obj\Debug\net5.0\05. Game Of Intervals.genruntimeconfig.cache
