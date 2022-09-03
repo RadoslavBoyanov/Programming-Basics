@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Nested Loops - More Exercises\06. Wedding Seats\bin\Debug\net5.0\06. Wedding Seats.exe
+C:\Users\user\source\repos\Nested Loops - More Exercises\06. Wedding Seats\bin\Debug\net5.0\06. Wedding Seats.deps.json
+C:\Users\user\source\repos\Nested Loops - More Exercises\06. Wedding Seats\bin\Debug\net5.0\06. Wedding Seats.runtimeconfig.json
+C:\Users\user\source\repos\Nested Loops - More Exercises\06. Wedding Seats\bin\Debug\net5.0\06. Wedding Seats.runtimeconfig.dev.json
+C:\Users\user\source\repos\Nested Loops - More Exercises\06. Wedding Seats\bin\Debug\net5.0\06. Wedding Seats.dll
+C:\Users\user\source\repos\Nested Loops - More Exercises\06. Wedding Seats\bin\Debug\net5.0\ref\06. Wedding Seats.dll
+C:\Users\user\source\repos\Nested Loops - More Exercises\06. Wedding Seats\bin\Debug\net5.0\06. Wedding Seats.pdb
+C:\Users\user\source\repos\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\net5.0\06. Wedding Seats.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\net5.0\06. Wedding Seats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\net5.0\06. Wedding Seats.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\net5.0\06. Wedding Seats.AssemblyInfo.cs
+C:\Users\user\source\repos\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\net5.0\06. Wedding Seats.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\net5.0\06. Wedding Seats.dll
+C:\Users\user\source\repos\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\net5.0\ref\06. Wedding Seats.dll
+C:\Users\user\source\repos\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\net5.0\06. Wedding Seats.pdb
+C:\Users\user\source\repos\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\net5.0\06. Wedding Seats.genruntimeconfig.cache

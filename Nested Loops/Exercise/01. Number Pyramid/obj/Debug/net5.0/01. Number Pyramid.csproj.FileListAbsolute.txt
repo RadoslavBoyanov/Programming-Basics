@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.exe
+C:\Users\user\source\repos\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.deps.json
+C:\Users\user\source\repos\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.runtimeconfig.json
+C:\Users\user\source\repos\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.runtimeconfig.dev.json
+C:\Users\user\source\repos\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.dll
+C:\Users\user\source\repos\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\ref\01. Number Pyramid.dll
+C:\Users\user\source\repos\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.pdb
+C:\Users\user\source\repos\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.AssemblyInfo.cs
+C:\Users\user\source\repos\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.dll
+C:\Users\user\source\repos\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\ref\01. Number Pyramid.dll
+C:\Users\user\source\repos\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.pdb
+C:\Users\user\source\repos\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.genruntimeconfig.cache

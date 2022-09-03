@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Nested Loops - More Exercises\05. Challenge the Wedding\bin\Debug\net5.0\05. Challenge the Wedding.exe
+C:\Users\user\source\repos\Nested Loops - More Exercises\05. Challenge the Wedding\bin\Debug\net5.0\05. Challenge the Wedding.deps.json
+C:\Users\user\source\repos\Nested Loops - More Exercises\05. Challenge the Wedding\bin\Debug\net5.0\05. Challenge the Wedding.runtimeconfig.json
+C:\Users\user\source\repos\Nested Loops - More Exercises\05. Challenge the Wedding\bin\Debug\net5.0\05. Challenge the Wedding.runtimeconfig.dev.json
+C:\Users\user\source\repos\Nested Loops - More Exercises\05. Challenge the Wedding\bin\Debug\net5.0\05. Challenge the Wedding.dll
+C:\Users\user\source\repos\Nested Loops - More Exercises\05. Challenge the Wedding\bin\Debug\net5.0\ref\05. Challenge the Wedding.dll
+C:\Users\user\source\repos\Nested Loops - More Exercises\05. Challenge the Wedding\bin\Debug\net5.0\05. Challenge the Wedding.pdb
+C:\Users\user\source\repos\Nested Loops - More Exercises\05. Challenge the Wedding\obj\Debug\net5.0\05. Challenge the Wedding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Nested Loops - More Exercises\05. Challenge the Wedding\obj\Debug\net5.0\05. Challenge the Wedding.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Nested Loops - More Exercises\05. Challenge the Wedding\obj\Debug\net5.0\05. Challenge the Wedding.AssemblyInfo.cs
+C:\Users\user\source\repos\Nested Loops - More Exercises\05. Challenge the Wedding\obj\Debug\net5.0\05. Challenge the Wedding.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nested Loops - More Exercises\05. Challenge the Wedding\obj\Debug\net5.0\05. Challenge the Wedding.dll
+C:\Users\user\source\repos\Nested Loops - More Exercises\05. Challenge the Wedding\obj\Debug\net5.0\ref\05. Challenge the Wedding.dll
+C:\Users\user\source\repos\Nested Loops - More Exercises\05. Challenge the Wedding\obj\Debug\net5.0\05. Challenge the Wedding.pdb
+C:\Users\user\source\repos\Nested Loops - More Exercises\05. Challenge the Wedding\obj\Debug\net5.0\05. Challenge the Wedding.genruntimeconfig.cache

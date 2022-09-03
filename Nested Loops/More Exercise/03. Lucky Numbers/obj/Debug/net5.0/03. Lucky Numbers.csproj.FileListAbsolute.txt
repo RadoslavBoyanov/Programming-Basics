@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net5.0\03. Lucky Numbers.exe
+C:\Users\user\source\repos\Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net5.0\03. Lucky Numbers.deps.json
+C:\Users\user\source\repos\Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net5.0\03. Lucky Numbers.runtimeconfig.json
+C:\Users\user\source\repos\Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net5.0\03. Lucky Numbers.runtimeconfig.dev.json
+C:\Users\user\source\repos\Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net5.0\03. Lucky Numbers.dll
+C:\Users\user\source\repos\Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net5.0\ref\03. Lucky Numbers.dll
+C:\Users\user\source\repos\Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net5.0\03. Lucky Numbers.pdb
+C:\Users\user\source\repos\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net5.0\03. Lucky Numbers.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net5.0\03. Lucky Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net5.0\03. Lucky Numbers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net5.0\03. Lucky Numbers.AssemblyInfo.cs
+C:\Users\user\source\repos\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net5.0\03. Lucky Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net5.0\03. Lucky Numbers.dll
+C:\Users\user\source\repos\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net5.0\ref\03. Lucky Numbers.dll
+C:\Users\user\source\repos\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net5.0\03. Lucky Numbers.pdb
+C:\Users\user\source\repos\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net5.0\03. Lucky Numbers.genruntimeconfig.cache

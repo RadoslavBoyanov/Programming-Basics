@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Nested Loops - More Exercises\10. Profit\bin\Debug\net5.0\10. Profit.exe
+C:\Users\user\source\repos\Nested Loops - More Exercises\10. Profit\bin\Debug\net5.0\10. Profit.deps.json
+C:\Users\user\source\repos\Nested Loops - More Exercises\10. Profit\bin\Debug\net5.0\10. Profit.runtimeconfig.json
+C:\Users\user\source\repos\Nested Loops - More Exercises\10. Profit\bin\Debug\net5.0\10. Profit.runtimeconfig.dev.json
+C:\Users\user\source\repos\Nested Loops - More Exercises\10. Profit\bin\Debug\net5.0\10. Profit.dll
+C:\Users\user\source\repos\Nested Loops - More Exercises\10. Profit\bin\Debug\net5.0\ref\10. Profit.dll
+C:\Users\user\source\repos\Nested Loops - More Exercises\10. Profit\bin\Debug\net5.0\10. Profit.pdb
+C:\Users\user\source\repos\Nested Loops - More Exercises\10. Profit\obj\Debug\net5.0\10. Profit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Nested Loops - More Exercises\10. Profit\obj\Debug\net5.0\10. Profit.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Nested Loops - More Exercises\10. Profit\obj\Debug\net5.0\10. Profit.AssemblyInfo.cs
+C:\Users\user\source\repos\Nested Loops - More Exercises\10. Profit\obj\Debug\net5.0\10. Profit.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nested Loops - More Exercises\10. Profit\obj\Debug\net5.0\10. Profit.dll
+C:\Users\user\source\repos\Nested Loops - More Exercises\10. Profit\obj\Debug\net5.0\ref\10. Profit.dll
+C:\Users\user\source\repos\Nested Loops - More Exercises\10. Profit\obj\Debug\net5.0\10. Profit.pdb
+C:\Users\user\source\repos\Nested Loops - More Exercises\10. Profit\obj\Debug\net5.0\10. Profit.genruntimeconfig.cache

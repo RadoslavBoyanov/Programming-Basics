@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.exe
+C:\Users\user\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.deps.json
+C:\Users\user\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.runtimeconfig.json
+C:\Users\user\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.runtimeconfig.dev.json
+C:\Users\user\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.dll
+C:\Users\user\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\ref\03. Sum Prime Non Prime.dll
+C:\Users\user\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.pdb
+C:\Users\user\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.AssemblyInfo.cs
+C:\Users\user\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.dll
+C:\Users\user\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\ref\03. Sum Prime Non Prime.dll
+C:\Users\user\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.pdb
+C:\Users\user\source\repos\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.genruntimeconfig.cache
