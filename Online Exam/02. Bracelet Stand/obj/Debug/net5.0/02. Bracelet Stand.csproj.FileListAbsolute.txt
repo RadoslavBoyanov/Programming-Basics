@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Bracelet Stand\bin\Debug\net5.0\02. Bracelet Stand.exe
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Bracelet Stand\bin\Debug\net5.0\02. Bracelet Stand.deps.json
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Bracelet Stand\bin\Debug\net5.0\02. Bracelet Stand.runtimeconfig.json
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Bracelet Stand\bin\Debug\net5.0\02. Bracelet Stand.runtimeconfig.dev.json
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Bracelet Stand\bin\Debug\net5.0\02. Bracelet Stand.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Bracelet Stand\bin\Debug\net5.0\ref\02. Bracelet Stand.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Bracelet Stand\bin\Debug\net5.0\02. Bracelet Stand.pdb
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Bracelet Stand\obj\Debug\net5.0\02. Bracelet Stand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Bracelet Stand\obj\Debug\net5.0\02. Bracelet Stand.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Bracelet Stand\obj\Debug\net5.0\02. Bracelet Stand.AssemblyInfo.cs
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Bracelet Stand\obj\Debug\net5.0\02. Bracelet Stand.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Bracelet Stand\obj\Debug\net5.0\02. Bracelet Stand.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Bracelet Stand\obj\Debug\net5.0\ref\02. Bracelet Stand.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Bracelet Stand\obj\Debug\net5.0\02. Bracelet Stand.pdb
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Bracelet Stand\obj\Debug\net5.0\02. Bracelet Stand.genruntimeconfig.cache

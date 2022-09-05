@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Excursion Sale\bin\Debug\net5.0\05. Excursion Sale.exe
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Excursion Sale\bin\Debug\net5.0\05. Excursion Sale.deps.json
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Excursion Sale\bin\Debug\net5.0\05. Excursion Sale.runtimeconfig.json
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Excursion Sale\bin\Debug\net5.0\05. Excursion Sale.runtimeconfig.dev.json
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Excursion Sale\bin\Debug\net5.0\05. Excursion Sale.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Excursion Sale\bin\Debug\net5.0\ref\05. Excursion Sale.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Excursion Sale\bin\Debug\net5.0\05. Excursion Sale.pdb
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Excursion Sale\obj\Debug\net5.0\05. Excursion Sale.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Excursion Sale\obj\Debug\net5.0\05. Excursion Sale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Excursion Sale\obj\Debug\net5.0\05. Excursion Sale.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Excursion Sale\obj\Debug\net5.0\05. Excursion Sale.AssemblyInfo.cs
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Excursion Sale\obj\Debug\net5.0\05. Excursion Sale.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Excursion Sale\obj\Debug\net5.0\05. Excursion Sale.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Excursion Sale\obj\Debug\net5.0\ref\05. Excursion Sale.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Excursion Sale\obj\Debug\net5.0\05. Excursion Sale.pdb
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Excursion Sale\obj\Debug\net5.0\05. Excursion Sale.genruntimeconfig.cache

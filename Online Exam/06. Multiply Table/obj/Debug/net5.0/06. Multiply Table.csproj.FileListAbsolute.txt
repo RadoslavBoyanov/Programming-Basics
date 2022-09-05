@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Multiply Table\bin\Debug\net5.0\06. Multiply Table.exe
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Multiply Table\bin\Debug\net5.0\06. Multiply Table.deps.json
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Multiply Table\bin\Debug\net5.0\06. Multiply Table.runtimeconfig.json
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Multiply Table\bin\Debug\net5.0\06. Multiply Table.runtimeconfig.dev.json
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Multiply Table\bin\Debug\net5.0\06. Multiply Table.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Multiply Table\bin\Debug\net5.0\ref\06. Multiply Table.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Multiply Table\bin\Debug\net5.0\06. Multiply Table.pdb
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Multiply Table\obj\Debug\net5.0\06. Multiply Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Multiply Table\obj\Debug\net5.0\06. Multiply Table.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Multiply Table\obj\Debug\net5.0\06. Multiply Table.AssemblyInfo.cs
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Multiply Table\obj\Debug\net5.0\06. Multiply Table.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Multiply Table\obj\Debug\net5.0\06. Multiply Table.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Multiply Table\obj\Debug\net5.0\ref\06. Multiply Table.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Multiply Table\obj\Debug\net5.0\06. Multiply Table.pdb
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Multiply Table\obj\Debug\net5.0\06. Multiply Table.genruntimeconfig.cache

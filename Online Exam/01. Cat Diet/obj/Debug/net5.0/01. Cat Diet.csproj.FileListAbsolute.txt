@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\01. Cat Diet\bin\Debug\net5.0\01. Cat Diet.exe
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\01. Cat Diet\bin\Debug\net5.0\01. Cat Diet.deps.json
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\01. Cat Diet\bin\Debug\net5.0\01. Cat Diet.runtimeconfig.json
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\01. Cat Diet\bin\Debug\net5.0\01. Cat Diet.runtimeconfig.dev.json
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\01. Cat Diet\bin\Debug\net5.0\01. Cat Diet.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\01. Cat Diet\bin\Debug\net5.0\ref\01. Cat Diet.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\01. Cat Diet\bin\Debug\net5.0\01. Cat Diet.pdb
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\01. Cat Diet\obj\Debug\net5.0\01. Cat Diet.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\01. Cat Diet\obj\Debug\net5.0\01. Cat Diet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\01. Cat Diet\obj\Debug\net5.0\01. Cat Diet.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\01. Cat Diet\obj\Debug\net5.0\01. Cat Diet.AssemblyInfo.cs
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\01. Cat Diet\obj\Debug\net5.0\01. Cat Diet.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\01. Cat Diet\obj\Debug\net5.0\01. Cat Diet.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\01. Cat Diet\obj\Debug\net5.0\ref\01. Cat Diet.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\01. Cat Diet\obj\Debug\net5.0\01. Cat Diet.pdb
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\01. Cat Diet\obj\Debug\net5.0\01. Cat Diet.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.exe
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.deps.json
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.runtimeconfig.json
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.runtimeconfig.dev.json
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\bin\Debug\net5.0\ref\03. Excursion Calculator.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.pdb
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.AssemblyInfo.cs
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\ref\03. Excursion Calculator.dll
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.pdb
+C:\Users\user\source\repos\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.genruntimeconfig.cache
